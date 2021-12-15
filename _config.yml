@@ -3,7 +3,6 @@ baseurl: "/"
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 reveal:
-  title: "Reveal-jekyll"
   transition: "slide" # none/fade/slide/convex/concave/zoom
   theme: "black" # beige/blood/league/moon/night/serif/simple/sky/solarized/white
   number: true
@@ -11,6 +10,12 @@ reveal:
 
 # Slides
 collections:
+  people:
+    output: true
+    permalink: /:collection/:name
+  timeline:
+    output: true
+    permalink: /:collection/:name
   slides:
     output: true
     permalink: /:collection/:name
@@ -34,6 +39,5 @@ plugins:
 # USF CS
 title: "CS NNN"
 description: "Course Description"
+author: "Your name"
 google_analytics: false
-collections:
-- people

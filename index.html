@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h1>Timeline</h2>
+{% if site.timeline.size > 0 %}
+	{% assign date_format = "%b %-d, %Y" %}
+	<table>
+		<tr>
+			<th>Date</th>
+			<th>Topics</th>
+			<th>Section 1</th>
+		</tr>
+		{% for row in site.timeline reversed %}
+		<tr>
+			<td>{{ row.date | date: date_format }}</td>
+			<td>{{ row.topics | markdownify }}</td>
+			<td>
+				{% if row.section01.notes %}
+					<a href="{{ row.section01.notes }}">notes</a>
+				{% endif %}
+				{% if row.section01.video %}
+					<a href="{{ row.section01.video }}">video</a>
+				{% endif %}
+				{% if row.section01.slides %}
+					<a href="{{ row.section01.slides }}" target="_new">slides</a>
+				{% endif %}
+			</td>
+		</tr>
+		{% endfor %}
+	</table>
+{%- endif -%}

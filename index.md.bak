@@ -1,0 +1,13 @@
+---
+layout: default
+---
+## Timeline
+
+{% assign date_format = "%b %-d, %Y" %}
+
+| Date | Topics | Section 1 |
+| --- | --- | --- |
+{% for row in site.timeline reversed -%}
+| {{ row.date | date: date_format }} | {{ row.topics | markdownify }} | stuff |
+{% endfor %}
+
