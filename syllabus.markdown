@@ -5,18 +5,47 @@ permalink: /syllabus/
 ---
 
 ## Learning Objectives
-1. Fill in here
+1. Learn to use the Linux command-line environment including ssh, gcc, gdb, git, and an editor of your choice (lab01 and ongoing)
+2. Use your python experience to learn C (project01 and ongoing)
+3. Learn the binary and hexadecimal representation of numbers
+4. Learn to manipulate files on disk
+5. Learn to recognize and prevent security-related bugs
+6. Learn to program network protocols
+7. Have fun making computers do what you want!
 
 ## Assessments
-1. Fill in here
+1. We will learn by doing, with something due every week. Small labs will build into more complex projects. The weighting of assignments is:
+
+    | Category | Weight |
+    | --- | --- |
+    | Class participation | 10% |
+    | Labs                | 10% |
+    | Midterm exam        | 10% |
+    | Final exam          | 10% |
+    | Projects            | 60% |
 
 ## Course Policies
-1. Grading scale
+1. Collaboration
+2.     You are allowed to get descriptive help from anyone, including the instructor, TAs, friends, and Internet sites
+3.     You must not turn in code that you did not write. See the definition of plagiarism below. Anyone who turns in the same code as another student will receive a zero on that assignment.
+4. Class participation counts, although I will not directly take attendance
+5. Neatness counts. Take the time to write clean code. We will discuss.
+6. The course grading scale is as follows, with no rounding or curving.
 
     | Grade shown in Canvas | Letter Grade |
     | --- | --- |
-    | 100.00% - 93.33%   | A  |
-    | < 93.33% - 90.00%  | A- |
+    | 100.00% - 93.33%  | A  |
+    | < 93.33% - 90.0%  | A- |
+    | < 90.0% - 86.67%  | B+ |
+    | < 86.67% - 83.33% | B  |
+    | < 83.33% - 80.0%  | B- |
+    | < 80.0% - 76.67%  | C+ |
+    | < 76.67% - 73.33% | C  |
+    | < 73.33% - 70.0%  | C- |
+    | < 70.0% - 67.67%  | D+ |
+    | < 67.67% - 63.33% | D  |
+    | < 63.33% - 60.0%  | D- |
+    | < 60.0%           | F  |
 
 ## University Policies
 
