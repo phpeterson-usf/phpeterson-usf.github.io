@@ -25,7 +25,7 @@ permalink: /syllabus/
 
 ## Course Policies
 1. Academic Integrity
-    - You are allowed to get descriptive help from anyone, including the instructor, TAs, friends, and Internet sites.
+    - You are allowed to get explanatory help from anyone, including the instructor, TAs, friends, and Internet sites.
     - You must not turn in code that you did not write. Any student who violates the [Academic Integrity](#academic-integrity) policy will receive a zero on that assignment.
 4. Class participation counts, including in-classroom interaction, online help, and office hours. 
 5. Neatness counts. Take the time to write clean code. We will discuss.
