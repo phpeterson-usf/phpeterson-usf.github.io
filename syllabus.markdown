@@ -12,6 +12,7 @@ permalink: /syllabus/
 
 ## Course Policies
 1. Grading scale
+
     | Grade shown in Canvas | Letter Grade |
     | --- | --- |
     | 100.00% - 93.33%   | A  |
