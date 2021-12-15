@@ -29,8 +29,9 @@ permalink: /syllabus/
     - You must not turn in code that you did not write. Any student who violates the [Academic Integrity](#academic-integrity) policy will receive a zero on that assignment.
 4. Class participation counts, including in-classroom interaction, online help, and office hours. 
 5. Neatness counts. Take the time to write clean code. We will discuss.
-6. Late work may be submitted for partial credit up to one week after the grades for that assignment have been posted. Extensions for full credit are not given, except in extenuating circumstances, which you must discuss with the instructor beforehand.
-7. The course grading scale is as follows, with no rounding or curving.
+6. Late work may be submitted for partial credit up to one week after the grades for that assignment have been posted. 
+    - Extensions for full credit are not given, except in extenuating circumstances, which you must discuss with the instructor beforehand.
+8. The course grading scale is as follows, with no rounding or curving.
 
     | Grade shown in Canvas | Letter Grade |
     | --- | --- |
