@@ -1,6 +1,6 @@
 ---
-name: "Ed Rees"
+name: "TBD"
 role: "Teaching Assistant"
-email: "erees@dons.usfca.edu"
+email: "user3@example.com"
 office_hours: "TBD in CS Labs"
 ---
