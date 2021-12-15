@@ -37,7 +37,7 @@ plugins:
 - jekyll-remote-theme
 
 # USF CS
-title: "CS NNN"
-description: "Course Description"
-author: "Your name"
+title: "CS 221"
+description: "C and Systems Programming"
+author: "Phil Peterson"
 google_analytics: false
