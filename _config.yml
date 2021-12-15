@@ -22,6 +22,9 @@ collections:
   basements:
     output: true
     permalink: /:collection/:name
+  assignments:
+    output: true
+    permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -41,3 +44,4 @@ title: "CS NNN"
 description: "Course Description"
 author: "Your name"
 google_analytics: false
+due_date_format: "%a, %b %-d, %Y at %I:%M %p" # Thu, Jan 27, 2022 at 11:59 PM
