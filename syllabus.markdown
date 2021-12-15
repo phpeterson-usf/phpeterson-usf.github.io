@@ -26,9 +26,9 @@ permalink: /syllabus/
 
 ## Course Policies
 1. Collaboration
-2.     You are allowed to get descriptive help from anyone, including the instructor, TAs, friends, and Internet sites
-3.     You must not turn in code that you did not write. See the definition of plagiarism below. Anyone who turns in the same code as another student will receive a zero on that assignment.
-4. Class participation counts, although I will not directly take attendance
+    1. You are allowed to get descriptive help from anyone, including the instructor, TAs, friends, and Internet sites
+    1. You must not turn in code that you did not write. See the definition of [plagiarism](#plagiarism) below. Any student who turns in the same code as another student will receive a zero on that assignment.
+4. Class participation counts, including in-classroom interaction, online help, and office hours. 
 5. Neatness counts. Take the time to write clean code. We will discuss.
 6. The course grading scale is as follows, with no rounding or curving.
 
@@ -55,7 +55,7 @@ If you are a student with a disability or disabling condition, or if you think y
 ### Behavioral Expectations
 All students are expected to behave in accordance with the [Student Conduct Code](http://www.usfca.edu/fogcutter/). Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code.
 
-### Academic Integrity
+### Plagiarism
 As a Jesuit institution committed to cura personalis -- the care and education of the whole person -- USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University's Honor Code. You can find the [full text of the code online](https://myusf.usfca.edu/academic-integrity/).
 
 The policy covers:
