@@ -11,7 +11,11 @@ permalink: /syllabus/
 1. Fill in here
 
 ## Course Policies
-1. Fill in here
+1. Grading scale
+    | Grade shown in Canvas | Letter Grade |
+    | --- | --- |
+    | 100.00% - 93.33%   | A  |
+    | < 93.33% - 90.00%  | A- |
 
 ## University Policies
 
