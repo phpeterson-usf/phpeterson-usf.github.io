@@ -40,9 +40,9 @@ plugins:
 - jekyll-remote-theme
 
 # USF CS
-title: "CS NNN"
-description: "Course Name"
-author: "Instructor name"
+title: "CS 315"
+description: "Computer Architecture"
+author: "Phil Peterson"
 google_analytics: false
 due_date_format: "%a, %b %-d, %Y at %I:%M %p" # Thu, Jan 27, 2022 at 11:59 PM
-repository: "cs221-s22/cs221-s22.github.io"
+repository: "cs315-s22/cs315-s22.github.io"
