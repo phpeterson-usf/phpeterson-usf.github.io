@@ -1,4 +1,4 @@
-# Template side based on:
+# Template site based on:
 
 ## License
 ### Reveal Jekyll
