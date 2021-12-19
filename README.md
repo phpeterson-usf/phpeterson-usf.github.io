@@ -1,4 +1,4 @@
-# [USF](https://www.cs.usfca.edu) CS221 Course Web Site - Spring 2022
+# Template side based on:
 
 ## License
 ### Reveal Jekyll
