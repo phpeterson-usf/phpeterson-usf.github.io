@@ -10,7 +10,10 @@
       <header>
         <div class="container">
           <h1>{{ page.title }}</h1>
-          Due: {{ page.due_date | date: site.due_date_format }} to <a href="{{ page.github }}">Github Assignment</a>
+          Due: {{ page.due_date | date: site.due_date_format }} 
+          {% if page.github %}
+            to <a href="{{ page.github }}">Github Assignment</a>
+          {% endif %}
         </div>  
       </header>
       <div class="container">
