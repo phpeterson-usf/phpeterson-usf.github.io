@@ -1,6 +1,6 @@
 ---
-name: "Ed Rees"
+name: "Colm Lang"
 role: "Teaching Assistant"
-email: "erees@dons.usfca.edu"
+email: "cplang@dons.usfca.edu"
 office_hours: "TBD in CS Labs"
 ---
